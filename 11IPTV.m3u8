@@ -295,3 +295,5 @@ http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯频道" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="苏州",苏州生活资讯频道
 http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 tvg-name="昆山新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="苏州",昆山新闻综合频道
+https://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-hls.living.ksrmtzx.com&player=cNIAAC2e4onNFPwX&secondToken=secondToken%3A1mNVOGP6gLdKHyOZdomGISnH1MQ&sign=213b253f7c005fa3fd95933c2b72c661&streamid=ksntv%3Aksntv%2Fks-tv&t=670380cd&v3=1
